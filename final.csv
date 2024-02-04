@@ -96,9 +96,9 @@ ID,Course Code,Course Title,Credit Hours,Faculty,School,Lecture Hours,Tutorial H
 99,BIO702,Project-Based Learning in Food Biotechnology,3,Institute of Basic and Applied Sciences,Institute of Basic and Applied Sciences,None,None,None,PG,FALSE
 100,BIO801,M.Sc. Thesis,15,Institute of Basic and Applied Sciences,---,0,0,0,PG,FALSE
 101,BIO601,Molecular aspects of cell signaling,3,Institute of Basic and Applied Sciences,Institute of Basic and Applied Sciences,None,None,None,PG,FALSE
-102,BIO602,"Genomics, proteomics and metabolomics                                                     ",3,Institute of Basic and Applied Sciences,Institute of Basic and Applied Sciences,None,None,None,PG,FALSE
-103,BIO603,"Bioreactors (Design, operation and product collection)                                    ",3,Institute of Basic and Applied Sciences,Institute of Basic and Applied Sciences,None,None,None,PG,FALSE
-104,BIO604,"Bioremediation (Cleaning polluted air, water and soil)                                    ",3,Institute of Basic and Applied Sciences,Institute of Basic and Applied Sciences,None,None,None,PG,FALSE
+102,BIO602,"Genomics, proteomics and metabolomics",3,Institute of Basic and Applied Sciences,Institute of Basic and Applied Sciences,None,None,None,PG,FALSE
+103,BIO603,"Bioreactors (Design, operation and product collection)",3,Institute of Basic and Applied Sciences,Institute of Basic and Applied Sciences,None,None,None,PG,FALSE
+104,BIO604,"Bioremediation (Cleaning polluted air, water and soil)",3,Institute of Basic and Applied Sciences,Institute of Basic and Applied Sciences,None,None,None,PG,FALSE
 105,BIO605,Bio-fuel production (from bacteria and algae),3,Institute of Basic and Applied Sciences,Institute of Basic and Applied Sciences,None,None,None,PG,FALSE
 106,BIO606,Bio-fertilizers and bio-pesticides,3,Institute of Basic and Applied Sciences,Institute of Basic and Applied Sciences,None,None,None,PG,FALSE
 107,BIO607,Nano-biotechnology,3,Institute of Basic and Applied Sciences,Institute of Basic and Applied Sciences,None,None,None,PG,FALSE
@@ -134,7 +134,7 @@ ID,Course Code,Course Title,Credit Hours,Faculty,School,Lecture Hours,Tutorial H
 137,EMA504,Chemistry for energy science,3,Institute of Basic and Applied Sciences,Institute of Basic and Applied Sciences,None,None,None,PG,FALSE
 138,EMA505,Semiconductors materials and processing,3,Institute of Basic and Applied Sciences,Institute of Basic and Applied Sciences,None,None,None,PG,FALSE
 139,EMA506,Thermodynamics of materials,3,Institute of Basic and Applied Sciences,Institute of Basic and Applied Sciences,None,None,None,PG,FALSE
-140,EMA507,"Solar, Wind And Biomass Energies                                                          ",3,Institute of Basic and Applied Sciences,---,2,2,0,PG,FALSE
+140,EMA507,"Solar, Wind And Biomass Energies",3,Institute of Basic and Applied Sciences,---,2,2,0,PG,FALSE
 141,EMA508,Optical properties of luminescent materials,3,Institute of Basic and Applied Sciences,Institute of Basic and Applied Sciences,None,None,None,PG,FALSE
 142,EMA509,Device physics,3,Institute of Basic and Applied Sciences,Institute of Basic and Applied Sciences,None,None,None,PG,FALSE
 143,EMA701,Project-based learning in energy materials,3,Institute of Basic and Applied Sciences,Institute of Basic and Applied Sciences,None,None,None,PG,FALSE
@@ -173,7 +173,7 @@ ID,Course Code,Course Title,Credit Hours,Faculty,School,Lecture Hours,Tutorial H
 178,EMA603,Topics on fuel cells,3,Institute of Basic and Applied Sciences,Institute of Basic and Applied Sciences,None,None,None,PG,FALSE
 179,EMA604,Solid state chemistry and its applications,3,Institute of Basic and Applied Sciences,Institute of Basic and Applied Sciences,None,None,None,PG,FALSE
 180,EMA605,Biomaterials,3,Institute of Basic and Applied Sciences,Institute of Basic and Applied Sciences,None,None,None,PG,FALSE
-181,EMA606,"Solar photovoltaics: fundamentals, technology, and applications                           ",3,Institute of Basic and Applied Sciences,Institute of Basic and Applied Sciences,None,None,None,PG,FALSE
+181,EMA606,"Solar photovoltaics: fundamentals, technology, and applications",3,Institute of Basic and Applied Sciences,Institute of Basic and Applied Sciences,None,None,None,PG,FALSE
 182,EMA607,Advanced instrumentations and materials analysis,3,Institute of Basic and Applied Sciences,Institute of Basic and Applied Sciences,None,None,None,PG,FALSE
 183,EMA608,Materials and devices for energy conversion,3,Institute of Basic and Applied Sciences,Institute of Basic and Applied Sciences,None,None,None,PG,FALSE
 184,EMA609,Nanomaterials and energy,3,Institute of Basic and Applied Sciences,Institute of Basic and Applied Sciences,None,None,None,PG,FALSE
@@ -236,7 +236,7 @@ ID,Course Code,Course Title,Credit Hours,Faculty,School,Lecture Hours,Tutorial H
 251,ACC487,Accounting Information Systems,3,Faculty of International Business and Humanities,School of International Business,2,0,2,UG,FALSE
 252,ACC488,ICT for Social Good,3,Faculty of International Business and Humanities,School of International Business,2,0,2,UG,FALSE
 254,AIS611,Advanced Database Systems,3,Faculty of International Business and Humanities,School of International Business,0,0,0,PG,FALSE
-255,AIS612,"Accounting Theory I: Theory of Corporate Disclosures, Control, And Governance             ",3,Faculty of International Business and Humanities,School of International Business,0,0,0,PG,FALSE
+255,AIS612,"Accounting Theory I: Theory of Corporate Disclosures, Control, And Governance",3,Faculty of International Business and Humanities,School of International Business,0,0,0,PG,FALSE
 256,AIS621,Accounting Theory Ii: Empirical Analysis of Financial Reporting,3,Faculty of International Business and Humanities,School of International Business,0,0,0,PG,FALSE
 257,PHD511,Qualitative Research Methods (1),3,Faculty of International Business and Humanities,School of International Business,0,0,0,PG,FALSE
 258,PHD521,Qualitative Research Methods (2),3,Faculty of International Business and Humanities,School of International Business,0,0,0,PG,FALSE
@@ -267,7 +267,7 @@ ID,Course Code,Course Title,Credit Hours,Faculty,School,Lecture Hours,Tutorial H
 283,CMF512,Impacts and Adaptation to Climate Change,3,Faculty of International Business and Humanities,School of International Business,0,0,0,PG,FALSE
 284,CMF513,Financial and Carbon Accounting & Reporting,3,Faculty of International Business and Humanities,School of International Business,0,0,0,PG,FALSE
 285,CMF521,Risk Management and Climate Change,3,Faculty of International Business and Humanities,School of International Business,0,0,0,PG,FALSE
-286,CMF522,"Business Economics, Climate Change and the Environment                                    ",3,Faculty of International Business and Humanities,School of International Business,0,0,0,PG,FALSE
+286,CMF522,"Business Economics, Climate Change and the Environment",3,Faculty of International Business and Humanities,School of International Business,0,0,0,PG,FALSE
 287,CMF523,Corporate Finance and Carbon Finance,3,Faculty of International Business and Humanities,School of International Business,0,0,0,PG,FALSE
 288,CMF611,Clean Tech Innovation and Investment,3,Faculty of International Business and Humanities,School of International Business,0,0,0,PG,FALSE
 289,CMF621,Climate Change and Governance,3,Faculty of International Business and Humanities,School of International Business,0,0,0,PG,FALSE
@@ -354,7 +354,7 @@ ID,Course Code,Course Title,Credit Hours,Faculty,School,Lecture Hours,Tutorial H
 376,MTR504,Micro Electromechanical Systems (MEMS),3,Faculty of Engineering and Applied Sciences,Mechatronics and Robotics Engineering,0,0,0,PG,FALSE
 377,MTR505,Mobile Robots and Vision Systems,3,Faculty of Engineering and Applied Sciences,Mechatronics and Robotics Engineering,0,0,0,PG,FALSE
 378,MTR506,Advanced Topics in Mechanical Systems Design,3,Faculty of Engineering and Applied Sciences,Mechatronics and Robotics Engineering,0,0,0,PG,FALSE
-379,MTR508,"Robot Kinematics, Dynamics and Control                                                    ",3,Faculty of Engineering and Applied Sciences,Mechatronics and Robotics Engineering,0,0,0,PG,FALSE
+379,MTR508,"Robot Kinematics, Dynamics and Control",3,Faculty of Engineering and Applied Sciences,Mechatronics and Robotics Engineering,0,0,0,PG,FALSE
 380,MTR601,Intelligent Control Systems,3,Faculty of Engineering and Applied Sciences,Mechatronics and Robotics Engineering,0,0,0,PG,FALSE
 381,MTR602,Advanced Robotics,3,Faculty of Engineering and Applied Sciences,Mechatronics and Robotics Engineering,0,0,0,PG,FALSE
 382,MTR603,Advanced Bio-Engineering Systems,3,Faculty of Engineering and Applied Sciences,Mechatronics and Robotics Engineering,0,0,0,PG,FALSE
@@ -428,7 +428,7 @@ ID,Course Code,Course Title,Credit Hours,Faculty,School,Lecture Hours,Tutorial H
 450,MSE608,Magnetic and Superconducting Materials,3,Faculty of Engineering and Applied Sciences,Materials Science and Engineering,0,0,0,PG,FALSE
 451,MSE609,Materials for Photovoltaic Devices,3,Faculty of Engineering and Applied Sciences,Materials Science and Engineering,0,0,0,PG,FALSE
 452,MSE610,Active and Sensing Materials,3,Faculty of Engineering and Applied Sciences,Materials Science and Engineering,0,0,0,PG,FALSE
-453,MSE611,"Fuel Cells, Batteries and Supercapacitors                                                 ",3,Faculty of Engineering and Applied Sciences,Materials Science and Engineering,0,0,0,PG,FALSE
+453,MSE611,"Fuel Cells, Batteries and Supercapacitors",3,Faculty of Engineering and Applied Sciences,Materials Science and Engineering,0,0,0,PG,FALSE
 454,MSE612,Fracture and Fatigue,3,Faculty of Engineering and Applied Sciences,Materials Science and Engineering,0,0,0,PG,FALSE
 455,MSE701,Project Based Learning in Materials Development and Integration in Engineering Systems,3,Faculty of Engineering and Applied Sciences,Materials Science and Engineering,0,0,0,PG,FALSE
 456,MSE702,Seminar on Advanced topics of Materials Science and Technology,3,Faculty of Engineering and Applied Sciences,Materials Science and Engineering,0,0,0,PG,FALSE
@@ -570,7 +570,7 @@ ID,Course Code,Course Title,Credit Hours,Faculty,School,Lecture Hours,Tutorial H
 592,EPE122,Electrical Engineering Lab,1,Faculty of Engineering and Applied Sciences,Electrical Power Engineering,0,2,0,UG,FALSE
 593,CSE211,Computer Programming,2,Faculty of Engineering and Applied Sciences,Computer Science and Engineering,2,0,0,UG,FALSE
 594,CSE212,Computer Programming Lab,1,Faculty of Engineering and Applied Sciences,Computer Science and Engineering,0,2,0,UG,FALSE
-595,CPE211,"Introduction to Energy, Environmental and Chemical Engineering                            ",2,Faculty of Engineering and Applied Sciences,Chemical and Petrochemicals Engineering,2,0,0,UG,FALSE
+595,CPE211,"Introduction to Energy, Environmental and Chemical Engineering",2,Faculty of Engineering and Applied Sciences,Chemical and Petrochemicals Engineering,2,0,0,UG,FALSE
 596,IME211,Introduction to Manufacturing Processes,2,Faculty of Engineering and Applied Sciences,Industrial and Manufacturing Engineering,2,0,0,UG,FALSE
 597,IME212,Manufacturing Processes Laboratory,1,Faculty of Engineering and Applied Sciences,Industrial and Manufacturing Engineering,0,2,0,UG,FALSE
 598,EPE221,Measurements and Instrumentations,2,Faculty of Engineering and Applied Sciences,Electrical Power Engineering,2,0,0,UG,FALSE
@@ -579,7 +579,7 @@ ID,Course Code,Course Title,Credit Hours,Faculty,School,Lecture Hours,Tutorial H
 601,MSE222,Materials Science Lab,1,Faculty of Engineering and Applied Sciences,Materials Science and Engineering,0,2,0,UG,FALSE
 602,ERE221,Thermo-Fluids,2,Faculty of Engineering and Applied Sciences,Energy Resources Engineering,2,0,0,UG,FALSE
 603,ERE222,Thermo-Fluids Lab,1,Faculty of Engineering and Applied Sciences,Energy Resources Engineering,0,2,0,UG,FALSE
-604,CPE212,"Energy, Environmental and Chemical Eng. lab                                               ",1,Faculty of Engineering and Applied Sciences,Chemical and Petrochemicals Engineering,0,2,0,UG,FALSE
+604,CPE212,"Energy, Environmental and Chemical Eng. lab",1,Faculty of Engineering and Applied Sciences,Chemical and Petrochemicals Engineering,0,2,0,UG,FALSE
 605,MTE211,Theory of Machines,3,Faculty of Engineering and Applied Sciences,Mechatronics and Robotics Engineering,2,0,2,UG,FALSE
 606,ECE222,Digital Logic Design Lab,1,Faculty of Engineering and Applied Sciences,Electronics and Communications Engineering,0,2,1,UG,FALSE
 607,CSE213,Numerical Analysis,3,Faculty of Engineering and Applied Sciences,Computer Science and Engineering,2,2,1,UG,FALSE
@@ -875,7 +875,7 @@ ID,Course Code,Course Title,Credit Hours,Faculty,School,Lecture Hours,Tutorial H
 917,MSE431,Introduction of Advanced Materials,3,Faculty of Engineering and Applied Sciences,Materials Science and Engineering,2,1,1,UG,FALSE
 918,MSE432,Optical Properties of Materials,3,Faculty of Engineering and Applied Sciences,Materials Science and Engineering,2,1,1,UG,FALSE
 919,MSE433,Deformation and Fracture of Engineering Materials,3,Faculty of Engineering and Applied Sciences,Materials Science and Engineering,2,1,1,UG,FALSE
-920,MSE434,"Fundamentals of Stress and Strain, and Deformation of Metals                              ",3,Faculty of Engineering and Applied Sciences,Materials Science and Engineering,2,1,1,UG,FALSE
+920,MSE434,"Fundamentals of Stress and Strain, and Deformation of Metals",3,Faculty of Engineering and Applied Sciences,Materials Science and Engineering,2,1,1,UG,FALSE
 921,MSE435,Intermolecular Force and Aggregation,3,Faculty of Engineering and Applied Sciences,Materials Science and Engineering,2,1,1,UG,FALSE
 922,MSE436,Continuum Mechanics,3,Faculty of Engineering and Applied Sciences,Materials Science and Engineering,2,1,1,UG,FALSE
 923,MSE437,Dielectric Materials Science,3,Faculty of Engineering and Applied Sciences,Materials Science and Engineering,2,1,1,UG,FALSE
